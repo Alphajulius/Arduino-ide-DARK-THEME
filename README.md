@@ -3,6 +3,6 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
-How to install it :
+## How to install it :
 
 To install it, just download the "theme" file then go to "programmesX86" then "arduino" then "lib" then replace the "theme" file with the one you just downloaded.
